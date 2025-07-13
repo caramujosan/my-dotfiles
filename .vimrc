@@ -96,8 +96,8 @@ map <F9>  ggO#!/bin/bash
 	  \<c-o>:r!date '+\%Y-\%m-\%d \%H:\%M-0300'<cr># <c-o>o
 	  \# Codificacao utf-8<c-o>o
           \# Autor: caramujosan<cr>
-          
-          
+
+
 " Abreviações para quando a tecla CAPS LOCK estiver ativada."
 cab W w | cab Q q | cab Wq wq | cab wQ wq | cab WQ wq
 " Função que fecha automaticamente { ( [, ao escrevê-los o vim fecha automaticamente.
